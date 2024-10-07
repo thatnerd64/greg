@@ -1,6 +1,7 @@
 Hello! Welcome to Greg 🤖  
-Greg is a discord chatbot powered by [Ollama](https://github.com/ollama/ollama) For the [Chris Tech Tips community](https://discord.gg/qUTvJbDWMu)
+Greg is a discord chatbot powered by [Ollama](https://github.com/ollama/ollama) For the [Chris Tech Tips community](https://discord.gg/qUTvJbDWMu)  
 WIP - Also currently waiting on response from owner of Gregtech imagery to see if we need to change it  
+  
 __Features__  
 Option for o1-like reasoning - Currently implemented as main chat function (its pretty bad)  
 
